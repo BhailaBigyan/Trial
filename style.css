@@ -5,6 +5,16 @@
     font-weight: 100;
 
 }
+@media screen and (max-width: 768px) {
+    h1 {
+      font-size: 30px;
+    }
+    p {
+      font-size: 12px;
+      padding-left: 1%;
+    }
+  }
+  
 body{
     background: white;
 }
